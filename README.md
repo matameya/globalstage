@@ -112,3 +112,7 @@ schedule with due dates in **My Tournaments**.
 - **P2**: external provider marketplace, in-person sessions, player passport / scout visibility, community features.
 
 None of these require reworking P0 — they're new tables/services layered on top of the same guardian → player → registration chain.
+
+## Learning Git Practice
+
+Git practice branch created for learning purposes.
